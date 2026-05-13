@@ -21,8 +21,14 @@ Your goal is to determine which combination of prompting technique + platform pr
 5.User experience
 
 OUTPUT:
+
+
+
+
 [exp 2 prom.pdf](https://github.com/user-attachments/files/27692807/exp.2.prom.pdf)
 
 
 
 RESULT:
+<img width="1536" height="1024" alt="op" src="https://github.com/user-attachments/assets/b6a8daad-bd30-4886-968e-9f821549698b" />
+
